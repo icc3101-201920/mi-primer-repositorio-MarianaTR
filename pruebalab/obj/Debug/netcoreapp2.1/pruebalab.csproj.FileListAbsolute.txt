@@ -1,0 +1,11 @@
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\bin\Debug\netcoreapp2.1\pruebalab.deps.json
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\bin\Debug\netcoreapp2.1\pruebalab.runtimeconfig.json
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\bin\Debug\netcoreapp2.1\pruebalab.runtimeconfig.dev.json
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\bin\Debug\netcoreapp2.1\pruebalab.dll
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\bin\Debug\netcoreapp2.1\pruebalab.pdb
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.csprojAssemblyReference.cache
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.csproj.CoreCompileInputs.cache
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.AssemblyInfoInputs.cache
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.AssemblyInfo.cs
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.dll
+C:\Users\torre\Desktop\mi-primer-repositorio-MarianaTR\pruebalab\obj\Debug\netcoreapp2.1\pruebalab.pdb
